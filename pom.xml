@@ -58,7 +58,7 @@
     <easymock.version>3.4</easymock.version>
     
     <!-- Checkstyle Properties -->
-    <maven-checkstyle.version>6.11.2</maven-checkstyle.version>
+    <maven-checkstyle.version>2.17</maven-checkstyle.version>
     
     <!-- Findbugs Properties -->
     <findbugs-maven.version>3.0.1</findbugs-maven.version>
