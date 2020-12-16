@@ -167,7 +167,7 @@
           </reports>
          </reportSet>
         </reportSets>
-      </pulugin>
+      </plugin>
     </plugins>
   </reporting>
 
