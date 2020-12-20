@@ -87,6 +87,7 @@ public class SampleActionTest {
 		boolean result = action.checkParameter(request);
 		verify(request);
 
+		//assertEquals(false, result);
 		assertEquals(false, result);
 	}
 
